@@ -13,6 +13,10 @@
             <e p="EventListener.cs" t="Include" />
             <e p="GameEvents.cs" t="Include" />
           </e>
+          <e p="Timer" t="Include">
+            <e p="ExampleTimer.cs" t="Include" />
+            <e p="Timer.cs" t="Include" />
+          </e>
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
