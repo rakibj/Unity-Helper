@@ -19,9 +19,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/_UnityHelper/EventSystem_Native/EventInvoker.cs" />
         <option value="$PROJECT_DIR$/Assets/_UnityHelper/EventSystem_Native/EventListener.cs" />
         <option value="$PROJECT_DIR$/Assets/_UnityHelper/EventSystem_Native/GameEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/_UnityHelper/EventSystem_Native/EventInvoker.cs" />
       </list>
     </option>
   </component>
@@ -67,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575024702501</updated>
-      <workItem from="1575024708589" duration="1959000" />
+      <workItem from="1575024708589" duration="3298000" />
     </task>
     <servers />
   </component>
