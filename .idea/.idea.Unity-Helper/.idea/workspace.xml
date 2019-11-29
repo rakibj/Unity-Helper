@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52548e28-4f6c-4e5d-8607-ef01a7dd5e9b" name="Default Changelist" comment="" />
@@ -13,10 +13,15 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/EventSystem_Native/EventListener.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/Timer/ExampleTimer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/EventSystem_Native/GameEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CD14385-55E6-4C0E-AEDA-2393D3C9CF4A/e5/540528ca/PlayerPrefs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/SimplePlayerPrefExtension/PlayerPrefsExtended.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/ExtensionMethods/ShuffleListExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/ExtensionMethods/StringExtensionMethods.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/DracoSoftwareExtensionsForUnity-master/Assets/EditorExtensions/Extensions/TransformExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/ExtensionMethods/VectorExtensionMethods.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/EventSystem_Native/EventInvoker.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/Timer/Timer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/SimpleScoreSystem/SimpleScoreSystem.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -24,8 +29,16 @@
         <option value="$PROJECT_DIR$/Assets/_UnityHelper/EventSystem_Native/EventListener.cs" />
         <option value="$PROJECT_DIR$/Assets/_UnityHelper/EventSystem_Native/GameEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/_UnityHelper/EventSystem_Native/EventInvoker.cs" />
-        <option value="$PROJECT_DIR$/Assets/_UnityHelper/Timer/ExampleTimer.cs" />
         <option value="$PROJECT_DIR$/Assets/_UnityHelper/Timer/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/_UnityHelper/Timer/ExampleTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/_UnityHelper/SimpleSaveSystem/SimpleSaveSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/_UnityHelper/SimpleSaveSystem/SimpleLoadSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/_UnityHelper/SimpleLoadSystem/SimpleLoadSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/_UnityHelper/ExtensionMethods/VectorExtensionMethods.cs" />
+        <option value="$PROJECT_DIR$/Assets/_UnityHelper/ExtensionMethods/ShuffleListExtensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/_UnityHelper/ExtensionMethods/StringExtensionMethods.cs" />
+        <option value="$PROJECT_DIR$/Assets/_UnityHelper/SimplePlayerPrefExtension/PlayerPrefsExtended.cs" />
+        <option value="$PROJECT_DIR$/Assets/_UnityHelper/SimpleScoreSystem/SimpleScoreSystem.cs" />
       </list>
     </option>
   </component>
@@ -72,7 +85,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575024702501</updated>
-      <workItem from="1575024708589" duration="5436000" />
+      <workItem from="1575024708589" duration="6150000" />
+      <workItem from="1575041325432" duration="3414000" />
     </task>
     <servers />
   </component>
@@ -83,7 +97,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
