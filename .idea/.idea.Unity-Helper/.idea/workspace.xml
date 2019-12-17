@@ -13,15 +13,20 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/EventSystem_Native/EventListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/InputSystems/IInputTopDown.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/EventSystem_Native/GameEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CD14385-55E6-4C0E-AEDA-2393D3C9CF4A/e5/540528ca/PlayerPrefs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/TimerSystem/ExampleTimer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/SimplePlayerPrefExtension/PlayerPrefsExtended.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/TimerSystem/Timer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/ExtensionMethods/ShuffleListExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/ExtensionMethods/ExampleExtensionMethods.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/ExtensionMethods/StringExtensionMethods.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/Downloads/DracoSoftwareExtensionsForUnity-master/Assets/EditorExtensions/Extensions/TransformExtensions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/ExtensionMethods/VectorExtensionMethods.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/EventSystem_Native/EventInvoker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/InputSystems/InputTopDownMobile.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/SimpleScoreSystem/SimpleScoreSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_UnityHelper/SimpleScoreSystem/SimpleScoreExample.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -38,7 +43,15 @@
         <option value="$PROJECT_DIR$/Assets/_UnityHelper/ExtensionMethods/ShuffleListExtensions.cs" />
         <option value="$PROJECT_DIR$/Assets/_UnityHelper/ExtensionMethods/StringExtensionMethods.cs" />
         <option value="$PROJECT_DIR$/Assets/_UnityHelper/SimplePlayerPrefExtension/PlayerPrefsExtended.cs" />
+        <option value="$PROJECT_DIR$/Assets/_UnityHelper/SimpleScoreSystem/SimpleScoreExample.cs" />
         <option value="$PROJECT_DIR$/Assets/_UnityHelper/SimpleScoreSystem/SimpleScoreSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/_UnityHelper/ExtensionMethods/ExampleExtensionMethods.cs" />
+        <option value="$PROJECT_DIR$/Assets/_UnityHelper/InputSystems/IInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/_UnityHelper/InputSystems/InputMobileTd.cs" />
+        <option value="$PROJECT_DIR$/Assets/_UnityHelper/InputSystems/IInputTopDown.cs" />
+        <option value="$PROJECT_DIR$/Assets/_UnityHelper/InputSystems/InputTopDownMobileTd.cs" />
+        <option value="$PROJECT_DIR$/Assets/_UnityHelper/InputSystems/InputTopDownMobile.cs" />
+        <option value="$PROJECT_DIR$/Assets/_UnityHelper/TimerSystem/Timer.cs" />
       </list>
     </option>
   </component>
@@ -86,7 +99,10 @@
       <option name="presentableId" value="Default" />
       <updated>1575024702501</updated>
       <workItem from="1575024708589" duration="6150000" />
-      <workItem from="1575041325432" duration="3414000" />
+      <workItem from="1575041325432" duration="5543000" />
+      <workItem from="1575160332070" duration="3671000" />
+      <workItem from="1575204356953" duration="1455000" />
+      <workItem from="1575314092852" duration="1584000" />
     </task>
     <servers />
   </component>

@@ -39,9 +39,10 @@ namespace RakibUtils
             m_score -= decrement;
         }
 
-        public void SaveHighScore(float score)
+        public void SaveHighScore()
         {
-            PlayerPrefs.SetFloat(KeyHighScore, score);
+            m_highScore = m_score > m_highScore ? m_score : m_highScore;
+            PlayerPrefs.SetFloat(KeyHighScore, m_highScore);
         }
     }
 }

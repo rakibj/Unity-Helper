@@ -14,15 +14,31 @@
             <e p="GameEvents.cs" t="Include" />
           </e>
           <e p="ExtensionMethods" t="Include">
+            <e p="ExampleExtensionMethods.cs" t="Include" />
             <e p="ShuffleListExtensions.cs" t="Include" />
             <e p="StringExtensionMethods.cs" t="Include" />
             <e p="UnityNumericalExtensionMethods.cs" t="Include" />
             <e p="VectorExtensionMethods.cs" t="Include" />
           </e>
+          <e p="InputSystems" t="Include">
+            <e p="IInputTopDown.cs" t="Include" />
+            <e p="InputTopDownMobile.cs" t="Include" />
+          </e>
+          <e p="RandomNameAndCountry" t="Include">
+            <e p="Resources" t="Include">
+              <e p="TextFiles" t="Include">
+                <e p="names.txt" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="RandomNameAndCountryPicker.cs" t="Include" />
+            </e>
+          </e>
           <e p="SimplePlayerPrefExtension" t="Include">
             <e p="PlayerPrefsExtended.cs" t="Include" />
           </e>
           <e p="SimpleScoreSystem" t="Include">
+            <e p="SimpleScoreExample.cs" t="Include" />
             <e p="SimpleScoreSystem.cs" t="Include" />
           </e>
           <e p="TimerSystem" t="Include">
